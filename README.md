@@ -1,2 +1,2 @@
 # CRUD app
-## Fetches data from the json server and uses jsonplaceholder API to show the data
+## Fetches data from the  jsonplaceholder API and uses json server.
